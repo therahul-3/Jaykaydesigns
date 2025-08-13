@@ -53,7 +53,7 @@ export default function App() {
     const text = encodeURIComponent(
       `Name: ${nameRef.current.value}\nEmail: ${emailRef.current.value}\nMessage: ${msgRef.current.value}`
     );
-    window.open(`https://wa.me/918754070505?text=${text}`, "_blank");
+    window.open(`https://wa.me/919500976049?text=${text}`, "_blank");
   };
 
   return (
