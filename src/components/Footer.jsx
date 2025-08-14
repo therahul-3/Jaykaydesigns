@@ -53,7 +53,7 @@ export default function Footer({ handleScroll }) {
               </a>
               <div className="flex gap-2 mt-1">
                 <a
-                  href="https://www.instagram.com/jaykaydesigns/"
+                  href="https://www.instagram.com/jaykaydesigns1212/"
                   target="_blank"
                   rel="noopener"
                   className="hover:text-gray-300"
@@ -61,7 +61,7 @@ export default function Footer({ handleScroll }) {
                 >
                   <i className="fab fa-instagram text-sm"></i>
                 </a>
-                <a
+                {/* <a
                   href="https://www.facebook.com/jaykaydesigns/"
                   target="_blank"
                   rel="noopener"
@@ -78,7 +78,17 @@ export default function Footer({ handleScroll }) {
                   aria-label="LinkedIn"
                 >
                   <i className="fab fa-linkedin-in text-sm"></i>
-                </a>
+                </a> */}
+                <a
+                href="https://wa.me/9789269677"
+                target="_blank"
+                rel="noopener"
+                className="hover:text-gray-300 flex items-center gap-2"
+                aria-label="WhatsApp"
+              >
+                <i className="fab fa-whatsapp text-sm"></i>
+                {/* <span>+91 9789269677</span> */}
+              </a>
               </div>
             </div>
           </nav>
@@ -101,7 +111,7 @@ export default function Footer({ handleScroll }) {
               <i className="fas fa-envelope text-sm"></i>
             </a>
             <a
-              href="https://www.instagram.com/jaykaydesigns/"
+              href="https://www.instagram.com/jaykaydesigns1212/"
               target="_blank"
               rel="noopener"
               className="hover:text-gray-300 transition"
@@ -109,7 +119,7 @@ export default function Footer({ handleScroll }) {
             >
               <i className="fab fa-instagram text-sm"></i>
             </a>
-            <a
+            {/* <a
               href="https://www.facebook.com/jaykaydesigns/"
               target="_blank"
               rel="noopener"
@@ -126,7 +136,17 @@ export default function Footer({ handleScroll }) {
               aria-label="LinkedIn"
             >
               <i className="fab fa-linkedin-in text-sm"></i>
-            </a>
+            </a> */}
+             <a
+                href="https://wa.me/9789269677"
+                target="_blank"
+                rel="noopener"
+                className="hover:text-gray-300 flex items-center gap-2"
+                aria-label="WhatsApp"
+              >
+                <i className="fab fa-whatsapp text-sm"></i>
+                {/* <span>+91 9789269677</span> */}
+              </a>
           </div>
           <span className="opacity-80 text-xs">+91 9500976049</span>
           <span className="opacity-80 text-xs">jaykaydesigns1212@gmail.com</span>
