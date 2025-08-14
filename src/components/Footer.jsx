@@ -80,7 +80,7 @@ export default function Footer({ handleScroll }) {
                   <i className="fab fa-linkedin-in text-sm"></i>
                 </a> */}
                 <a
-                href="https://wa.me/9789269677"
+                href="https://wa.me/+919789269677"
                 target="_blank"
                 rel="noopener"
                 className="hover:text-gray-300 flex items-center gap-2"
@@ -138,7 +138,7 @@ export default function Footer({ handleScroll }) {
               <i className="fab fa-linkedin-in text-sm"></i>
             </a> */}
              <a
-                href="https://wa.me/9789269677"
+                href="https://wa.me/+919789269677"
                 target="_blank"
                 rel="noopener"
                 className="hover:text-gray-300 flex items-center gap-2"
